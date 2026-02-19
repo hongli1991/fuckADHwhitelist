@@ -529,10 +529,25 @@
 @@||*googlevideo.com*^
 @@||*ggpht.com^
 
-! FUCK BAIDU FUCK LINIUHONG
+! 操你妈李彥宏你个大傻逼我操你妈
 
+# 允许指定的百度系域名（包括 baidu.com 子域名和独立域名）
+@@||tieba.baidu.com^
+@@||pan.baidu.com^
 @@||baidu.com^
-
+@@||zhidao.baidu.com^
+@@||baike.baidu.com^
+@@||wenku.baidu.com^
+@@||image.baidu.com^
+@@||v.baidu.com^
+@@||map.baidu.com^
+@@||lvyou.baidu.com^
+@@||tuan.baidu.com^
+@@||jiaoyu.baidu.com^
+@@||cloud.baidu.com^
+@@||baidubce.com^
+@@||baidupcs.com^
+@@||baidustatic.com^
 
 ! Epic Games
 ! https://www.epicgames.com/help/zh-CN/c5719357686683/c5719341353627/epic-games-fortnite-a5720352654107#whitelist
